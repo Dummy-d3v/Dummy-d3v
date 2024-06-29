@@ -20,11 +20,9 @@ Hey there! I'm Dummy-d3v, a passionate tech enthusiast with a knack for turning 
 
 💬 Let's Chat: Feel free to reach out via GitHub Issues or connect on LinkedIn.
 
-## Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-chaudhary-084311265)
-<!--📧 Email: [email here](mailto:dummy.dev@example.com)-->
-
 Join me as I navigate the thrilling world of development, one line of code at a time. Let's build something awesome together!
 
 Happy coding! 🚀
+
+<!--## Connect with me-->
+<!--📧 Email: [email here](mailto:dummy.dev@example.com)-->
