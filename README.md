@@ -22,7 +22,7 @@ Hey there! I'm Dummy-d3v, a passionate tech enthusiast with a knack for turning 
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sujal-chaudhary-084311265)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](htpps://www.linkedin.com/in/sujal-chaudhary-084311265)
 <!--📧 Email: [email here](mailto:dummy.dev@example.com)-->
 
 Join me as I navigate the thrilling world of development, one line of code at a time. Let's build something awesome together!
