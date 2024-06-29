@@ -22,11 +22,10 @@ Hey there! I'm Dummy-Dev, a passionate tech enthusiast with a knack for turning 
 
 ## Connect with me
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourLinkedInProfile)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourGitHubProfile)
 
-📧 Email: [dummy.dev@example.com](mailto:dummy.dev@example.com)
+<📧 Email: [.com](mailto:dummy.dev@example.com)-->
 
 
 Join me as I navigate the thrilling world of development, one line of code at a time. Let's build something awesome together!
