@@ -7,8 +7,8 @@ Hey there! I'm Dummy-Dev, a passionate tech enthusiast with a knack for turning 
 👾 Alias: Dummy-d3v (or you can call me DD!)  
 💻 Languages: MERN stack, java, python  
 🛠 Tools of the Trade: VSCode, Git, Figma  
-<!--🌱 Currently Learning: Machine Learning, Rust-->  
 🎮 Hobbies: Gaming, hacking (the good kind!), and exploring new tech
+<!--🌱 Currently Learning: Machine Learning, Rust-->  
 
 ## What You'll Find Here
 
@@ -22,11 +22,8 @@ Hey there! I'm Dummy-Dev, a passionate tech enthusiast with a knack for turning 
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourLinkedInProfile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourGitHubProfile)
-
-<!--📧 Email: [.com](mailto:dummy.dev@example.com)-->
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sujal-chaudhary-084311265)
+<!--📧 Email: [email here](mailto:dummy.dev@example.com)-->
 
 Join me as I navigate the thrilling world of development, one line of code at a time. Let's build something awesome together!
 
