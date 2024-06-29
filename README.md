@@ -1,4 +1,4 @@
-## Welcome to Dummy-Dev's Playground! 🎉
+## Welcome to Dummy-d3v's Playground! 🎉
 
 Hey there! I'm Dummy-d3v, a passionate tech enthusiast with a knack for turning caffeine into code. Whether I'm debugging my way through a maze of logic or crafting elegant solutions to complex problems, I love every bit of the journey in the tech world.
 
