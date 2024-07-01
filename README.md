@@ -1,10 +1,10 @@
-## Welcome to Dummy-d3v's Playground! 🎉
+## Welcome to d3v-Byte's Playground! 🎉
 
 Hey there! I'm Dummy-d3v, a passionate tech enthusiast with a knack for turning caffeine into code. Whether I'm debugging my way through a maze of logic or crafting elegant solutions to complex problems, I love every bit of the journey in the tech world.
 
 ## About Me
 
-👾 Alias: Dummy-d3v  
+👾 Alias: d3v-Byte's  
 💻 Languages: MERN stack, java, python  
 🛠 Tools of the Trade: VSCode, Git, Figma  
 🎮 Hobbies: Gaming, Developing, and exploring new tech
