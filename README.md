@@ -1,8 +1,8 @@
-## Welcome to d3v-Byte's Playground! 🎉
+## Welcome to sujal's Playground! 🎉
 
 <!--**`Digital Craftsman (Developer/Filmmaker/Creator)`**-->
 
-Hey there! I'm d3v-Byte, a passionate tech enthusiast with a knack for turning caffeine into code. Whether I'm debugging my way through a maze of logic or crafting elegant solutions to complex problems, I love every bit of the journey in the tech world.
+Hey there! I'm sujal, a passionate tech enthusiast with a knack for turning caffeine into code. Whether I'm debugging my way through a maze of logic or crafting elegant solutions to complex problems, I love every bit of the journey in the tech world.
 
 ### 🛠 Tools of the Trade:
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
