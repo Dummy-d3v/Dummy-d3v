@@ -35,19 +35,14 @@ Hey there! I'm d3v-Byte, a passionate tech enthusiast with a knack for turning c
 ## Get in Touch
 
 💬 Let's Chat: Feel free to reach out via GitHub Issues or connect on LinkedIn.
-<p align="left">
-      <a href="www.linkedin.com/in/sujal-chaudhary-084311265">
-         <img alt="Linked In Profile" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style:width: 30px/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
 
 Join me as I navigate the thrilling world of development, one line of code at a time. Let's build something awesome together!
 
 Happy coding! 🚀
 
-<!--## Connect with me-->
-<!--📧 Email: [email here](mailto:dummy.dev@example.com)-->
+## Connect with me-->
+📧 Email: [devbytes.code@gmail.com]
+
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
