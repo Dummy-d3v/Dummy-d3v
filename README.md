@@ -46,7 +46,7 @@ Happy coding! 🚀
       <img alt="LinkedIn Profile" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px" style="padding-right:10px;/>
    </a> 
 </p>
-
+<br/>
 
 📧 Email: [devbytes.code@gmail.com]
 
