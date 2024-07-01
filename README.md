@@ -45,6 +45,5 @@ Happy coding! 🚀
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
 ![d3v-Byte's GitHub stats](https://github-readme-stats.vercel.app/api?username=d3v-Bytes&show_icons=true&theme=gruvbox)
 
