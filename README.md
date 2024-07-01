@@ -37,12 +37,13 @@ Hey there! I'm d3v-Byte, a passionate tech enthusiast with a knack for turning c
 💬 Let's Chat: Feel free to reach out via GitHub or connect on LinkedIn. 
 Join me as I navigate the thrilling world of development, one line of code at a time. Let's build something awesome together!
 
-Happy coding! 🚀
-
 ### Connect with me
    <a href="https://www.linkedin.com/in/sujal-chaudhary-084311265" align="left">
       <img alt="LinkedIn Profile" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px" style="padding-right:10px;/>
    </a> <br/>
+         
+Happy coding! 🚀
+
 
 ### 📊 Stats
 
