@@ -35,6 +35,7 @@ Hey there! I'm d3v-Byte, a passionate tech enthusiast with a knack for turning c
 ### Get in Touch
 
 💬 Let's Chat: Feel free to reach out via GitHub or connect on LinkedIn. 
+
 Join me as I navigate the thrilling world of development, one line of code at a time. Let's build something awesome together!
 
 ### Connect with me
