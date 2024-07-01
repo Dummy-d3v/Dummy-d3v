@@ -41,6 +41,12 @@ Join me as I navigate the thrilling world of development, one line of code at a 
 Happy coding! 🚀
 
 ### Connect with me
+   <p align="left">
+      <a href="www.linkedin.com/in/sujal-chaudhary-084311265">
+         <img alt="LinkedIn Profile" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+      </a> 
+    </p>
+
 📧 Email: [devbytes.code@gmail.com]
 
 ### 📊 Stats
