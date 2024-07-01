@@ -37,7 +37,7 @@ Hey there! I'm d3v-Byte, a passionate tech enthusiast with a knack for turning c
 💬 Let's Chat: Feel free to reach out via GitHub Issues or connect on LinkedIn.
 <p align="left">
       <a href="www.linkedin.com/in/sujal-chaudhary-084311265">
-         <img alt="Linked In Profile" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style:{{width: 30px}}/></a>
+         <img alt="Linked In Profile" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style:width: 30px/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
