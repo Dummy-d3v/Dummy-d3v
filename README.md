@@ -10,7 +10,8 @@ Hey there! I'm d3v-Byte, a passionate tech enthusiast with a knack for turning c
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img align="left" alt="Insomnia" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />  <br/> <br/>
+<img align="left" alt="Insomnia" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />  
+<br/> <br/>
 
 ### 💻 Languages and Databases:
 
@@ -23,7 +24,7 @@ Hey there! I'm d3v-Byte, a passionate tech enthusiast with a knack for turning c
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <br /> <br />
 
 ### What You'll Find Here
@@ -39,14 +40,13 @@ Hey there! I'm d3v-Byte, a passionate tech enthusiast with a knack for turning c
 Join me as I navigate the thrilling world of development, one line of code at a time. Let's build something awesome together!
 
 ### Connect with me
-   <a href="https://www.linkedin.com/in/sujal-chaudhary-084311265" align="left">
-      <img alt="LinkedIn Profile" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px" style="padding-right:10px;/>
-   </a> <br/>
+<a href="https://www.linkedin.com/in/sujal-chaudhary-084311265" align="left">
+   <img alt="LinkedIn Profile" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px" style="padding-right:10px;" />
+</a> 
+<br/>
          
 Happy coding! 🚀
 
+### 📊 Stats
 
-<!--### 📊 Stats-->
-
-<!--![d3v-Byte's GitHub stats](https://github-readme-stats.vercel.app/api?username=d3v-Bytes&show_icons=true&theme=gruvbox) -->
-
+![d3v-Byte's GitHub stats](https://github-readme-stats.vercel.app/api?username=d3v-Bytes&show_icons=true&theme=gruvbox)
