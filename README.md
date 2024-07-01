@@ -24,7 +24,7 @@ Hey there! I'm d3v-Byte, a passionate tech enthusiast with a knack for turning c
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<br />
+<br /> <br />
 
 ## What You'll Find Here
 
@@ -35,6 +35,12 @@ Hey there! I'm d3v-Byte, a passionate tech enthusiast with a knack for turning c
 ## Get in Touch
 
 💬 Let's Chat: Feel free to reach out via GitHub Issues or connect on LinkedIn.
+<p align="left">
+      <a href="www.linkedin.com/in/sujal-chaudhary-084311265">
+         <img alt="Linked In Profile" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
+      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
 Join me as I navigate the thrilling world of development, one line of code at a time. Let's build something awesome together!
 
