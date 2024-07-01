@@ -43,7 +43,6 @@ Happy coding! 🚀
    <a href="https://www.linkedin.com/in/sujal-chaudhary-084311265" align="left">
       <img alt="LinkedIn Profile" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px" style="padding-right:10px;/>
    </a> <br/>
-<a href="mailto:devbytes.code@gmail.com">📧</a>
 
 ### 📊 Stats
 
