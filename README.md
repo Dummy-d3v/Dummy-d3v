@@ -48,7 +48,7 @@ Happy coding! 🚀
 
 
 
-<br/><a href="mailto:devbytes.code@gmail.com">📧 devbytes.code@gmail.com</a>
+<br/><a href="mailto:devbytes.code@gmail.com">📧</a>
 
 ### 📊 Stats
 
