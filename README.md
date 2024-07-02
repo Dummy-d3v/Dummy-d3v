@@ -47,6 +47,6 @@ Join me as I navigate the thrilling world of development, one line of code at a 
          
 Happy coding! 🚀
 
-### 📊 Stats
+<!--### 📊 Stats
 
-![d3v-Byte's GitHub stats](https://github-readme-stats.vercel.app/api?username=d3v-Bytes&show_icons=true&theme=gruvbox)
+![d3v-Byte's GitHub stats](https://github-readme-stats.vercel.app/api?username=d3v-Bytes&show_icons=true&theme=gruvbox)-->
